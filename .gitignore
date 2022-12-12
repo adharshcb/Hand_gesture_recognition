@@ -133,3 +133,8 @@ dmypy.json
 .idea/
 
 .DS_Store
+
+./model/keypoint_classifier/all.csv
+./model/keypoint_classifier/new.csv
+./model/keypoint_classifier/all2.csv
+./model/keypoint_classifier/new2.csv
